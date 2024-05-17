@@ -32,7 +32,7 @@ const Login = () => {
   return (
     <Container>
       <form onSubmit={handleSubmit}>
-        <Title>Delfos &#128261;</Title>
+        <Title>Login;</Title>
         
         <InputField>
           <Input
